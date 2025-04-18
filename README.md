@@ -1,2 +1,12 @@
-# Sayantan Portfolio
- A fully responsive and minimalistic portfolio website showcasing expertise in frontend development, backend engineering, and data analysis. Built using modern web technologies with clean architecture and optimized performance. Highlights technical skills, project showcases, and services with a focus on accessibility and seamless UX. Designed to serve as a professional gateway for recruiters, collaborators, and clients. Structured for scalability, maintainability, and future enhancements.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
