@@ -37,6 +37,9 @@ A modern, minimalistic portfolio website showcasing my skills in frontend develo
   - Vite for fast development and optimized builds
   - Git for version control
   - npm for package management
+ 
+## Deployed Project
+Project Link: [https://sayantan-portfolio-eight.vercel.app/](https://sayantan-portfolio-eight.vercel.app/)
 
 ## Getting Started
 
