@@ -115,6 +115,16 @@
 
     .work__filters{
         column-gap: 0.25rem;
+        justify-content: flex-start;
+        padding-left: 1.5rem;
+    }
+  }
+
+  /* For slightly bigger small devices */
+  @media screen and (max-width: 530px) {
+    .work__filters {
+        justify-content: flex-start;
+        padding-left: 1.5rem;
     }
   }
   

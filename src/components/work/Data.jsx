@@ -38,7 +38,7 @@ export const projectsData = [
       image: Work5,
       title: "Portfolio",
       category: "Frontend Web App",
-      link: "",
+      link: "https://github.com/Sayan-2054/Sayantan-Portfolio",
     },
   ];
 
