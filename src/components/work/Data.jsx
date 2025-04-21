@@ -40,6 +40,13 @@ export const projectsData = [
       category: "Frontend Web App",
       link: "https://github.com/Sayan-2054/Sayantan-Portfolio",
     },
+    {
+      id: 5,
+      image: Work6,
+      title: "Murasaki",
+      category: "Frontend Web App",
+      link: "https://github.com/Sayan-2054/Murasaki",
+    },
   ];
 
 export const projectsNav = [
