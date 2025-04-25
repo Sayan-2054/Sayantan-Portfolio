@@ -4,6 +4,7 @@ import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
+import Work7 from "../../assets/work7.png"
 
 export const projectsData = [
     {
@@ -47,6 +48,13 @@ export const projectsData = [
       title: "Murasaki",
       category: "Frontend Web App",
       link: "https://github.com/Sayan-2054/Murasaki",
+    },
+    {
+      id: 7,
+      image: Work7,
+      title: "Job-Fit Matcher",
+      category: "Full Stack Web App",
+      link: "https://github.com/Sayan-2054/JobFitMatcher",
     },
   ];
 
