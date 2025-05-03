@@ -44,6 +44,12 @@
     margin-bottom: var(--mb-2-5);
 }
 
+.about__data .button {
+    margin-top: 1.5rem;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
@@ -72,6 +78,13 @@
         padding: 0 5rem;
         margin-bottom: 2rem;
     }
+
+    /* Added button spacing and font size fix */
+    .about__data .button {
+        margin-top: 1.5rem;
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
   }
   
   /* For medium devices */
@@ -83,6 +96,13 @@
     .about__description{
         padding: 0;
     }
+
+    /* Added button spacing and font size fix */
+    .about__data .button {
+        margin-top: 1rem;
+        font-size: 0.9rem;
+        padding: 0.75rem 1.5rem;
+    }
   }
   
   /* For small devices */
@@ -90,5 +110,14 @@
     .about__info{
         grid-template-columns: repeat(2, 1fr);
         
+    }
+  }
+  
+  /* Added button spacing and font size fix for small devices */
+  @media screen and (max-width: 350px) {
+    .about__data .button {
+        margin-top: 0.75rem;
+        font-size: 0.85rem;
+        padding: 0.5rem 1rem;
     }
   }
