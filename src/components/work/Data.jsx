@@ -53,7 +53,7 @@ export const projectsData = [
       id: 7,
       image: Work7,
       title: "Job-Fit Matcher",
-      category: "Full Stack Web App",
+      category: "FullStack Web App",
       link: "https://github.com/Sayan-2054/JobFitMatcher",
     },
   ];
