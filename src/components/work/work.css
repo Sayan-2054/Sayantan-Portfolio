@@ -113,10 +113,20 @@
         font-size:var(--small-font-size) ;
     }
 
+    /* .work__container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3rem;
+        justify-content: center;
+    } */
+
     .work__filters{
         column-gap: 0.25rem;
         justify-content: flex-start;
         padding-left: 1.5rem;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
     }
   }
 
