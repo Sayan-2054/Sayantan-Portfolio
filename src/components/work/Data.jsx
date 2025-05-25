@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.png"
+import Work8 from "../../assets/work8.png"
 
 export const projectsData = [
     {
@@ -56,6 +57,13 @@ export const projectsData = [
       category: "FullStack Web App",
       link: "https://github.com/Sayan-2054/JobFitMatcher",
     },
+    {
+      id: 8,
+      image: Work8,
+      title: "Event Management and Scheduling System",
+      category: "Backend Web App",
+      link: "https://github.com/Sayan-2054/event-scheduler-api",
+    },
   ];
 
 export const projectsNav = [
@@ -70,5 +78,8 @@ export const projectsNav = [
     },
     {
         name: "Frontend Web App",
+    },
+    {
+        name: "Backend Web App",
     },
 ]
