@@ -61,11 +61,14 @@ const Qualification = () => {
                 </div>
 
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
-                     <div className="qualification__data">
-                         <div>
+
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
-                        </div> 
+                        </div>
 
                         <div>
                             <h3 className="qualification__title">Software Development Engineer - Intern</h3>
