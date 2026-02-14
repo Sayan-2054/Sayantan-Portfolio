@@ -54,8 +54,8 @@ const Data = () => {
                   ></path>
                 </svg>
         </h1>
-        <h3 className="home__subtitle">Software Engineer</h3>
-        <p className="home__description">I'm Sayantan Chowdhury, a passionate engineer and developer crafting efficient, user-friendly web experiences with a creative touch.</p>
+        <h3 className="home__subtitle">Software Development Engineer</h3>
+        <p className="home__description">I'm Sayantan Chowdhury, an engineer and developer building scalable systems and intuitive web experiences, backed by real-world fintech and debugging expertise.</p>
 
         <a href="#contact" className="button button--flex">
             Say Hello
