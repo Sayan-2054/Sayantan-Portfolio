@@ -19,7 +19,7 @@ const About = () => {
 
                 <p className="about__description">I'm a passionate, efficient, and curious developer with a strong foundation in software engineering and real-world fintech systems, experienced in debugging, building, and optimizing scalable applications. I thrive on learning, solving complex problems, and creating impactful digital solutions that make a difference.</p>
 
-                <a download="" href={CV} className="button button--flex">Download CV
+                <a download="" href={CV} className="button button--flex">Download Resume/CV
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
