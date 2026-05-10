@@ -6,6 +6,8 @@ import Work5 from "../../assets/work5.png"
 import Work6 from "../../assets/work6.png"
 import Work7 from "../../assets/work7.png"
 import Work8 from "../../assets/work8.png"
+import Work9 from "../../assets/work9.png"
+import Work10 from "../../assets/work10.png"
 
 export const projectsData = [
     {
@@ -64,6 +66,20 @@ export const projectsData = [
       category: "Backend Web App",
       link: "https://github.com/Sayan-2054/event-scheduler-api",
     },
+    {
+      id: 9,
+      image: Work9,
+      title: "Optimal Ship Routing",
+      category: "FullStack Web App",
+      link: "https://github.com/Sayan-2054/Optimal-Ship-Routing",
+    },
+    {
+      id: 10,
+      image: Work10,
+      title: "Financial Intelligence Suite",
+      category: "FullStack Web App",
+      link: "https://github.com/Sayan-2054/Financial-Intelligence-Suite",
+    }
   ];
 
 export const projectsNav = [
