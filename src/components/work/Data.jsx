@@ -13,16 +13,16 @@ export const projectsData = [
     {
       id: 1,
       image: Work1,
-      title: "Landing Page Design",
-      category: "Web Design",
-      link: "https://github.com/Sayan-2054/Alcami_Landing_page",
+      title: "Financial Intelligence Suite",
+      category: "FullStack Web App",
+      link: "https://github.com/Sayan-2054/Financial-Intelligence-Suite",
     },
     {
       id: 2,
       image: Work2,
-      title: "Calendar-App",
+      title: "Optimal Ship Routing",
       category: "FullStack Web App",
-      link: "https://github.com/Sayan-2054/Calendar-App",
+      link: "https://github.com/Sayan-2054/Optimal-Ship-Routing"
     },
     {
       id: 3,
@@ -69,16 +69,16 @@ export const projectsData = [
     {
       id: 9,
       image: Work9,
-      title: "Optimal Ship Routing",
+      title: "Calendar-App",
       category: "FullStack Web App",
-      link: "https://github.com/Sayan-2054/Optimal-Ship-Routing",
+      link: "https://github.com/Sayan-2054/Calendar-App",
     },
     {
       id: 10,
       image: Work10,
-      title: "Financial Intelligence Suite",
-      category: "FullStack Web App",
-      link: "https://github.com/Sayan-2054/Financial-Intelligence-Suite",
+      title: "Landing Page Design",
+      category: "Web Design",
+      link: "https://github.com/Sayan-2054/Alcami_Landing_page",
     }
   ];
 
